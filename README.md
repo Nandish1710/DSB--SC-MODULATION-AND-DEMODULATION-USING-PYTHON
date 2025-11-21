@@ -30,6 +30,10 @@ __Procedure__:
 
    __Tabulation__:
    <img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/eb0c6d8a-178a-432b-bd8b-74b579d26b7a" />
+
+
+
+
    __Output__:
    <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdb85a04-2361-42da-91af-c07a847707f9" />
 
