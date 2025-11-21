@@ -29,7 +29,11 @@ __Procedure__:
 7) Low-pass filter to recover message
 
    __Tabulation__:
-
+   <img width="1280" height="731" alt="image" src="https://github.com/user-attachments/assets/eb0c6d8a-178a-432b-bd8b-74b579d26b7a" />
    __Output__:
+   <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdb85a04-2361-42da-91af-c07a847707f9" />
 
    __Result__:
+
+   Thus the Double Sideband Suppressed Carrier (DSB-SC) signal in Python (Google Colab), transmit it (optionally add noise), and recover the message using coherent (synchronous) demodulation with a low-pass filter.  time and frequency domain waveforms and measured demodulation performance was succesfully executed
+
